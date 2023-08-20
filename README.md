@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Phenol Verma
-- 👀 I’m interested in Python, JAVA, SQL, Technical Release Managment
+- 👋 Hi, I’m Phenol Verma working with investment bank as Technical Release Manager
+- 👀 I’m interested in Python, JAVA, SQL, Openlink
 - 🌱 I’m currently expending my knowledge in Python, JAVA and SQL
 - 💞️ I’m looking to collaborate on CICD
 - 📫 How to reach me @https://www.linkedin.com/in/phenolverma
